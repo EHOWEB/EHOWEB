@@ -2,7 +2,7 @@
 
 - 🔭 I'm React Frontend Developer
 
--🌍Digital Nomad
+- 🌍 Digital Nomad
 
 - 🌱Currently I am learning Javascript deeply...
 
@@ -12,4 +12,7 @@
 
 - ⚡Everyone in my life is a part of my dreams.
 
-[![Becerilerim](https://skills.thijs.gg/icons ?i=html,css,js,react,ts,bootstrap,git )](https://skills.thijs.gg)
+
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
